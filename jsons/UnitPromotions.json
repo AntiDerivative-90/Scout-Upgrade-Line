@@ -91,8 +91,8 @@
         "name": "Marksmanship",		
         "uniques": [
                 "Can see invisible [Land] units",
-                "Can move after attacking","[+100]% Strength <vs [Gunpowder] units> <when attacking>",
-                "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+                "Can move after attacking","[+50]% Strength <vs [Gunpowder] units> <when attacking>",
+                "[+50]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
                 "[-100]% Strength <vs cities> <when attacking>"
         ],
     }
