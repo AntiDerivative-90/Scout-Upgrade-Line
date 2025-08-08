@@ -6,140 +6,175 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Explorer
   rotate: false
-  xy: 544, 43
+  xy: 652, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter
+  rotate: false
+  xy: 652, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer-1
   rotate: false
-  xy: 647, 43
+  xy: 755, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter-1
+  rotate: false
+  xy: 755, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer-2
   rotate: false
-  xy: 750, 43
+  xy: 858, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter-2
+  rotate: false
+  xy: 858, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter
   rotate: false
-  xy: 853, 43
+  xy: 961, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter-1
   rotate: false
-  xy: 956, 43
+  xy: 1064, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter-2
   rotate: false
-  xy: 1059, 43
+  xy: 1167, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper
   rotate: false
-  xy: 1162, 43
+  xy: 1270, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops
   rotate: false
-  xy: 1162, 43
+  xy: 1270, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper-1
   rotate: false
-  xy: 1265, 43
+  xy: 1373, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops-1
   rotate: false
-  xy: 1265, 43
+  xy: 1373, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper-2
   rotate: false
-  xy: 1368, 43
+  xy: 1476, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops-2
   rotate: false
-  xy: 1368, 43
+  xy: 1476, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Explorer
   rotate: false
-  xy: 1963, 96
+  xy: 1767, 38
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hunter
+  rotate: false
+  xy: 1767, 38
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sharpshooter
   rotate: false
-  xy: 2003, 96
+  xy: 1807, 38
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sniper
   rotate: false
-  xy: 1963, 60
+  xy: 1847, 38
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spec Ops
   rotate: false
-  xy: 1963, 60
+  xy: 1847, 38
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Explorer
   rotate: false
-  xy: 1471, 68
+  xy: 1579, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hunter
+  rotate: false
+  xy: 1579, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Sharpshooter
   rotate: false
-  xy: 1471, 4
+  xy: 1579, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Sniper
   rotate: false
-  xy: 1543, 68
+  xy: 1651, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spec Ops
   rotate: false
-  xy: 1543, 68
+  xy: 1651, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -151,23 +186,30 @@ UnitIcons/Explorer
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sharpshooter
+UnitIcons/Hunter
   rotate: false
-  xy: 328, 24
+  xy: 220, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sniper
+UnitIcons/Sharpshooter
   rotate: false
   xy: 436, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Sniper
+  rotate: false
+  xy: 544, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Assault Boats
   rotate: false
-  xy: 1543, 10
+  xy: 1651, 10
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -188,49 +230,49 @@ UnitIcons/Spec Ops
   index: -1
 UnitPromotionIcons/Dugouts
   rotate: false
-  xy: 1615, 74
+  xy: 1723, 74
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Elevation
   rotate: false
-  xy: 1673, 74
+  xy: 1781, 74
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Marksmanship
   rotate: false
-  xy: 1731, 74
+  xy: 1839, 74
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Pass Without a Trace
   rotate: false
-  xy: 220, 24
+  xy: 328, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Raid and Run
   rotate: false
-  xy: 1789, 74
+  xy: 1897, 74
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rangefinder
   rotate: false
-  xy: 1847, 74
+  xy: 1955, 74
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Rapid Fire
   rotate: false
-  xy: 1905, 74
+  xy: 1709, 10
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
